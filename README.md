@@ -31,3 +31,5 @@ college-it-portfolio/
 ## 🔗 Ссылки
 - [GitHub репозиторий](https://github.com/qwyronn/college-it-portfolio)
 - [GitHub Pages](https://qwyronn.github.io/college-it-portfolio/)
+
+*Создано в рамках практической работы по Git/GitHub*
