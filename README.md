@@ -25,9 +25,9 @@ college-it-portfolio/
 | Контент-менеджер | Данил | Наполнение сайта |
 
 ## 📦 Как запустить
-1. Клонировать: `git clone https://github.com/ваш-логин/college-it-portfolio`
+1. Клонировать: `git clone https://github.com/qwyronn/college-it-portfolio`
 2. Открыть `index.html` в браузере
 
 ## 🔗 Ссылки
-- [GitHub репозиторий](https://github.com/ваш-логин/college-it-portfolio)
-- [GitHub Pages](https://ваш-логин.github.io/college-it-portfolio/)
+- [GitHub репозиторий](https://github.com/qwyronn/college-it-portfolio)
+- [GitHub Pages](https://qwyronn.github.io/college-it-portfolio/)
